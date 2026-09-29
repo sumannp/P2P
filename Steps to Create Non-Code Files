@@ -1,1 +1,7 @@
-
+Open your GitHub Account and Click on Plus icon in the top tool bar and create New Repositary.
+Give the Repository name
+Choose whether you want to make the Repo Public (visible to anyone) or Private (only visible to you). Then click in Create Repository Button
+Check the box that says Add a README File. It setups the repository with basic text file so no need to use any command lines to setup
+Then Click in Create Repository 
+Once repo is created, go to the repo and create a txt file.
+Then commit changes
